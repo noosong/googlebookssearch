@@ -26,7 +26,7 @@ import docopt
 import sys
 from textwrap import wrap
 import os
-import config
+import config # file containing your google books api key. Or just include it directly below. 
 
 class gbooks():
     
